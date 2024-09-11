@@ -1,0 +1,98 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Grilled Chicken with Basil",
+    "recipe_image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=2053&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "A delicious grilled chicken recipe with fresh basil and mushrooms.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom",
+      "2 tbsp olive oil",
+      "1 clove garlic"
+    ],
+    "preparing_time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Creamy Avocado Pasta",
+    "recipe_image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "A healthy and creamy avocado pasta that’s quick to make.",
+    "ingredients": [
+      "300 g pasta",
+      "2 ripe avocados",
+      "1 tbsp lemon juice",
+      "2 cloves garlic",
+      "100 g spinach",
+      "50 ml olive oil"
+    ],
+    "preparing_time": "20 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Vegan Lentil Curry",
+    "recipe_image": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "A spicy vegan lentil curry loaded with protein and flavor.",
+    "ingredients": [
+      "200 g lentils",
+      "400 ml coconut milk",
+      "2 tbsp curry powder",
+      "1 onion",
+      "2 tomatoes",
+      "3 cloves garlic"
+    ],
+    "preparing_time": "40 min",
+    "calories": "350 calories"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Classic Beef Tacos",
+    "recipe_image": "https://media.istockphoto.com/id/846615850/photo/top-view-couple-cooking-together-dinner-salad.jpg?s=2048x2048&w=is&k=20&c=f_EPTq37833_S5YiFLCdyrGns6RrzMEShiVd4CDYDQY=",
+    "short_description": "Mexican-inspired beef tacos with fresh toppings.",
+    "ingredients": [
+      "500 g ground beef",
+      "100 g cheddar cheese",
+      "1 tbsp taco seasoning",
+      "8 taco shells",
+      "1 lettuce head",
+      "2 tomatoes"
+    ],
+    "preparing_time": "25 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Vegetable Stir-Fry",
+    "recipe_image": "https://images.unsplash.com/photo-1499125650409-2c437d5cca77?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "A quick and healthy vegetable stir-fry with a flavorful soy sauce.",
+    "ingredients": [
+      "300 g broccoli",
+      "200 g bell peppers",
+      "100 g carrots",
+      "50 ml soy sauce",
+      "1 tbsp sesame oil",
+      "1 onion"
+    ],
+    "preparing_time": "15 min",
+    "calories": "200 calories"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Baked Salmon with Lemon",
+    "recipe_image": "https://plus.unsplash.com/premium_photo-1697371326095-4296f143fba8?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "A simple yet flavorful baked salmon with fresh lemon.",
+    "ingredients": [
+      "400 g salmon fillet",
+      "1 lemon",
+      "2 tbsp olive oil",
+      "1 tbsp fresh dill",
+      "1 clove garlic",
+      "Salt and pepper"
+    ],
+    "preparing_time": "25 min",
+    "calories": "380 calories"
+  }
+]
